@@ -78,7 +78,7 @@ Out of 21 total queries, these are the ones with the most direct business impact
 | 19 | Highest-spending customer | **Kim Turner — $1,398.90** | Highlights a key account worth retaining |
 | 20 | Stock remaining after fulfilling orders | **30 books show negative remaining stock** | Flags a data-quality issue, not just low stock |
 
-*(Full list of all 21 questions and their queries is in the [Bookstore_sales_analysis.sql]*
+*Full list of all 21 questions and their queries is in the [Bookstore_sales_analysis.sql]*
 
 ## 💡 Key Insights
 
